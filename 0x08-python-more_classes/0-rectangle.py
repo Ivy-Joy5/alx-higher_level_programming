@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""Defines an empty Rectangle class."""
+"""0-rectangle, built for Holberton project 0x08 task 0.
+"""
 
 
 class Rectangle:
-    """An empty class that defines a rectangle."""
+    """Empty class per task instructions, will be built upon in later tasks.
+    """
     pass
-
